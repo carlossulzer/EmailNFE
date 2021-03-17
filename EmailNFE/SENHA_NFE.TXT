@@ -1,0 +1,3 @@
+ <add key="email--" value="nfe@dominio.com.br" />
+    <add key="senha--" value="nfecompras" />
+    <add key="diretorio--" value="\\192.168.0.4\public\NFE Compras" />
